@@ -2,6 +2,8 @@
 This project aims to detect fraudulent transactions in a credit card dataset using machine learning techniques. The dataset is highly imbalanced, so techniques such as SMOTE (Synthetic Minority Over-sampling Technique) are used to balance the dataset before training models. Two machine learning models, XGBoost and Random Forest, are implemented to classify transactions as fraud or non-fraud.
 
 ## Dataset
+##https://kh3-ls-storage.s3.us-east-1.amazonaws.com/DS Project Guide Data Set/creditcard.csv
+
 
 The dataset used is `creditcard.csv`, which contains:
 
